@@ -82,7 +82,3 @@ python 03_STACKING_OVERFIT/train_stacking_v2.py
 # 8. Generate the Final Submission File
 # This will create test_out_stacking_v2.csv
 python 03_STACKING_OVERFIT/generate_submission_stacking_v2.py
-
-# 9. (Optional) Validate the 36.18% Score
-# This will run the validation process and print the SMAPE score.
-python 03_STACKING_OVERFIT/validate_stacking_advanced.py
